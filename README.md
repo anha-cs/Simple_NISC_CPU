@@ -1,6 +1,6 @@
 This project is a class final project for CSC 137 - Computer System, 
 which demonstrates the phased process of building a
-CPU. 
+CPU using Logisim.
 
 Initially, we will design each individual component of the
 CPU, including the Instruction Fetch Unit, the ALU, the
